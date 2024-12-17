@@ -13,7 +13,7 @@ while True:
         break
     else:
         try:
-            num = int(temp)
+            num = float(temp)
             operation = input('Введіть бажану операцію з чотирьох доступних (sqrt, sin, cos, pow): ')
             if operation == 'sin':
                 print(f'{operation}({num}) = {sin(num)}')
@@ -44,8 +44,3 @@ current_date = date.today()
 
 print('Поточний місяць:\n', month(current_date.year, current_date.month)) 
 print('День тижня: ', current_date.strftime("%A"))
-
-
- 
-
-
