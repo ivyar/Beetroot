@@ -1,0 +1,20 @@
+[
+    {
+        "first_name": "Maksym",
+        "last_name": "Fesenko",
+        "telephone": "123456789",
+        "city": "Kharkiv"
+    },
+    {
+        "first_name": "Kyrylo",
+        "last_name": "Yemets",
+        "telephone": "987654321",
+        "city": "Dnipro"
+    },
+    {
+        "first_name": "Maryna",
+        "last_name": "Melnyk",
+        "telephone": "345678901",
+        "city": "Kyiv"
+    }
+]
